@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\4\\MozaicaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE09C2C-1696-4D2C-8592-0797F96E7050}|..\\UnitTestProject1\\UnitTestProject1.csproj|h:\\4\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|h:\\4\\mozaicaapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|H:\\4\\MozaicaApp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A256CA-5E90-4BF4-83CF-6BBAC635C163}|MozaicaApp.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "H:\\4\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "H:\\4\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:52:35.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\AdminForm.cs",
+              "RelativeToolTip": "AdminForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:33:48.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:20:17.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ManagerForm.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\ManagerForm.cs",
+              "RelativeToolTip": "ManagerForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwv0gAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T10:54:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\AdminForm.cs",
+              "RelativeDocumentMoniker": "AdminForm.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AdminForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:57:11.818Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "ManagerForm.cs",
+              "ToolTip": "E:\\Files\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u0434\u044D\u043C\u043E\u044D\u043A\u0437\u0430\u043C\u0435\u043D\\\u0420\u0430\u0431\u043E\u0442\u044B\u044B\u044B\u044B\u044B\\4\\MozaicaApp\\ManagerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:54:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T06:09:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwCAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:45:45.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "H:\\4\\MozaicaApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "H:\\4\\MozaicaApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T06:23:59.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

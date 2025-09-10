@@ -1,0 +1,12 @@
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.csproj.AssemblyReference.cache
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.ManagerForm.resources
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.Properties.Resources.resources
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.AdminForm.resources
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.csproj.GenerateResource.cache
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.csproj.CoreCompileInputs.cache
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\bin\Debug\MozaicaApp.exe.config
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\bin\Debug\MozaicaApp.exe
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\bin\Debug\MozaicaApp.pdb
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.LoginForm.resources
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.exe
+E:\Files\College\Практика дэмоэкзамен\Работыыыыы\4\MozaicaApp\obj\Debug\MozaicaApp.pdb
